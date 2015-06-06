@@ -15,5 +15,6 @@ Projects using this format:
 <table>
     <tr>
         <td>Kayak</td><td>https://github.com/dschanoeh/Kayak</td>
+        <td>CANBabel</td><td>https://github.com/julietkilo/CANBabel</td>
     </tr>
 </table>
