@@ -32,4 +32,4 @@ It would be nice to hear from your project.
 
 ## Licence
 
-The KCD file format has the Lesser GPL license, and is copyrighted by Jan-Niklas Meier (dschanoeh) and Jens Krueger (julietkilo). According to the authors this does not imply any licensing restrictions on software libraries implementing the KCD file format, or on software using those libraries.
+The files that are describing the format are published under the Lesser GPL license. The KCD format is copyrighted by Jan-Niklas Meier (dschanoeh) and Jens Krueger (julietkilo). According to the authors this does not imply any licensing restrictions on software libraries implementing the KCD file format, or on software using those libraries.
