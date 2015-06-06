@@ -10,12 +10,16 @@ The open source CAN analysis tool [**Kayak**](https://github.com/dschanoeh/Kayak
 The Location of the original KCD schema in XSD format is
 https://github.com/dschanoeh/Kayak/blob/master/Kayak-kcd/src/main/resources/com/github/kayak/canio/kcd/loader/Definition.xsd
 
+## Example
+A sample KCD file in XML format can be found here
+https://github.com/dschanoeh/Kayak/blob/master/Kayak-kcd/src/test/resources/can_definition_sample.kcd
+
 ## Projects
 
 Projects that are using this format:
 <table>
     <tr>
-        <td>Kayak</td><td>https://github.com/dschanoeh/Kayak</td>
+        <td>Kayak</td><td>https://github.com/dschanoeh/Kayak<br/>http://kayak.2codeornot2code.org/</td>
     </tr>
     <tr>
         <td>CANBabel</td><td>https://github.com/julietkilo/CANBabel</td>
