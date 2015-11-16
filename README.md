@@ -19,16 +19,19 @@ https://github.com/dschanoeh/Kayak/blob/master/Kayak-kcd/src/test/resources/can_
 Projects that are using this format:
 <table>
     <tr>
-        <td>Kayak</td><td>https://github.com/dschanoeh/Kayak<br/>http://kayak.2codeornot2code.org/</td>
+        <td>can4python</td><td>https://github.com/caran/can4python</td>
     </tr>
+    <tr>
+        <td>Canmatrix Convert Libray and Tool</td><td>https://github.com/ebroecker/canmatrix</td>
+    </tr>    
     <tr>
         <td>CANBabel</td><td>https://github.com/julietkilo/CANBabel</td>
     </tr>
     <tr>
-        <td>openCanSuite</td><td>https://github.com/sebi2k1/openCanSuite</td>
-    </tr>
+        <td>Kayak</td><td>https://github.com/dschanoeh/Kayak<br/>http://kayak.2codeornot2code.org/</td>
+    </tr>    
     <tr>
-        <td>Canmatrix Convert Libray and Tool</td><td>https://github.com/ebroecker/canmatrix</td>
+        <td>openCanSuite</td><td>https://github.com/sebi2k1/openCanSuite</td>
     </tr>
 </table>
 
