@@ -33,6 +33,9 @@ Projects that are using this format:
     <tr>
         <td>openCanSuite</td><td>https://github.com/sebi2k1/openCanSuite</td>
     </tr>
+    <tr>
+        <td>Cantools</td><td>https://github.com/eerimoq/cantools</td>
+    </tr>
 </table>
 
 It would be nice to hear from your project. 
