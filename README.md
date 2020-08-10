@@ -36,6 +36,9 @@ Projects that are using this format:
     <tr>
         <td>Cantools</td><td>https://github.com/eerimoq/cantools</td>
     </tr>
+    <tr>
+        <td>dbcppp</td><td>https://github.com/xR3b0rn/dbcppp</td>
+    </tr>
 </table>
 
 It would be nice to hear from your project. 
