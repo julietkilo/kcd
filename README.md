@@ -39,6 +39,9 @@ Projects that are using this format:
     <tr>
         <td>dbcppp</td><td>https://github.com/xR3b0rn/dbcppp</td>
     </tr>
+    <tr>
+        <td>Simple IoT</td><td>https://github.com/simpleiot/simpleiot<br/>https://docs.simpleiot.org/docs/user/can.html</td>
+    </tr>
 </table>
 
 It would be nice to hear from your project. 
